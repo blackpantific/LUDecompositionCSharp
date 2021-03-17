@@ -1,0 +1,7 @@
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\bin\Debug\LUDecompositionCSharp.exe.config
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\bin\Debug\LUDecompositionCSharp.exe
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\bin\Debug\LUDecompositionCSharp.pdb
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\obj\Debug\LUDecompositionCSharp.csprojAssemblyReference.cache
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\obj\Debug\LUDecompositionCSharp.csproj.CoreCompileInputs.cache
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\obj\Debug\LUDecompositionCSharp.exe
+G:\Xamarin\C&C++\LUDecompositionCSharp\LUDecompositionCSharp\obj\Debug\LUDecompositionCSharp.pdb
